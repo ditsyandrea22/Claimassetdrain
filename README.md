@@ -9,6 +9,10 @@ pip install web3 requests eth_account
 
 Ganti YOUR_INFURA_API_KEY dan YOUR_ETHERSCAN_KEY
 
+INFURA = https://infura.io/
+
+ETH api = https://docs.etherscan.io/getting-started/viewing-api-usage-statistics
+
 Sesuaikan parameter gas jika diperlukan
 
 Jalankan script:
