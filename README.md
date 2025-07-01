@@ -15,7 +15,7 @@ Jalankan script:
 
 ```bash
 
-python ultimate_revoker.py
+python wallet_revoker.py
 
 ```
 ## Masukkan:
