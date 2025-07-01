@@ -25,3 +25,13 @@ Private key wallet target
 Private key sponsor (opsional)
 
 Konfirmasi operasi
+
+lihat dengan seksama dan jika ini bermanfaat dan ingin membelikan saya kopi bisa ke sini
+
+```bash
+
+0x396a817c3E18DA8F00AB028b8E4924Aa3Ae54Bdd
+
+```
+
+## THANKS
