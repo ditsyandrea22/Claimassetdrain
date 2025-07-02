@@ -1,5 +1,9 @@
 Install dependencies:
+```bash
 
+git clone https://github.com/ditsyandrea22/Claimassetdrain.git
+
+```
 ## Linux/macOS: 
 
 ```bash
