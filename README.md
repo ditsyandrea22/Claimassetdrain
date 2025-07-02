@@ -1,17 +1,19 @@
 Install dependencies:
 
+## Linux/macOS: 
+
+```bash
+sudo apt update & sudo apt upgrade -y
+sudo apt install python3-pip
+
+```
+
 ```bash
 
-pip install web3 requests eth_account
+pip install web3 python-dotenv questionary termcolor requests
 
 ```
 ## Konfigurasi:
-
-Ganti YOUR_INFURA_API_KEY dan YOUR_ETHERSCAN_KEY
-
-INFURA = https://infura.io/
-
-ETH api = https://docs.etherscan.io/getting-started/viewing-api-usage-statistics
 
 Sesuaikan parameter gas jika diperlukan
 
@@ -19,18 +21,16 @@ Jalankan script:
 
 ```bash
 
-python wallet_revoker.py
+python3 claim.py
 
 ```
 ## Masukkan:
 
-Private key wallet target
+wallet target ada di wallets.json isi sesuai apa yang di butuhkan
 
-Private key sponsor (opsional)
+wallet safe untuk menerima token
 
-Konfirmasi operasi
-
-lihat dengan seksama dan jika ini bermanfaat dan ingin membelikan saya kopi bisa ke sini
+lihat dengan seksama dan jangan jalankan di tempat yang dapat mengexpose PK seperti codespase DLL mending gunakan PC pribadi jika ini bermanfaat dan ingin membelikan saya kopi bisa ke sini
 
 ```bash
 
